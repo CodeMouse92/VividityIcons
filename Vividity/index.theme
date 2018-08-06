@@ -1,0 +1,22 @@
+[Icon Theme]
+Name=Vividity
+Comment=Vividity is an icon theme designed by Jason C. McDonald, inspired by the Jared Sot's Vibrancy theme.
+Directories=apps/scalable,status/scalable
+Inherits=Humanity-Dark,gnome,breeze,breeze-dark,hicolor
+
+[apps/scalable]
+Size=512
+Context=Applications
+MinSize=16
+MaxSize=512
+Type=Scalable
+
+[status/scalable]
+Size=512
+Context=Status
+MinSize=16
+MaxSize=512
+Type=Scalable
+
+[Desktop Entry]
+Name[en_US]=index.theme
